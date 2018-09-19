@@ -22,7 +22,6 @@ traindataML.csv
 4- it will print the result based on selected dataset and classifer and it will show the figures
 ---------------------------------------------References------------------------------------------------------------------------
 Python Machine Learning book
-*** I used the codes from that book
 
 
 
